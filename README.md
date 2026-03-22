@@ -36,7 +36,7 @@ Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  motion_kit: ^1.0.0
+  motion_kit: ^1.0.1
 ```
 
 Then import:
