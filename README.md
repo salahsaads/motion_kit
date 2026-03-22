@@ -1,6 +1,19 @@
 # motion_kit
 
-A collection of reusable Flutter animation wrapper widgets. Drop any of them around an existing widget to instantly add motion.
+<p align="center">
+  <img src="https://img.shields.io/pub/v/motion_kit?color=7C6EF5&labelColor=0D0D0D&style=for-the-badge" alt="pub version"/>
+  <img src="https://img.shields.io/pub/likes/motion_kit?color=EC407A&labelColor=0D0D0D&style=for-the-badge" alt="pub likes"/>
+  <img src="https://img.shields.io/pub/points/motion_kit?color=66BB6A&labelColor=0D0D0D&style=for-the-badge" alt="pub points"/>
+  <img src="https://img.shields.io/badge/platform-flutter-42A5F5?labelColor=0D0D0D&style=for-the-badge" alt="platform"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/salahsaads/motion_kit/main/motion_kit_demo.gif" width="360" alt="motion_kit demo"/>
+</p>
+
+> A collection of reusable Flutter animation wrapper widgets. Drop any of them around an existing widget to instantly add motion.
+
+---
 
 ## Widgets
 
@@ -15,14 +28,15 @@ A collection of reusable Flutter animation wrapper widgets. Drop any of them aro
 | `SlideInWrapper` | Slides child in from any direction |
 | `AnimatedItem` | Staggered fade + slide-up for list/grid items |
 
+---
+
 ## Installation
 
 Add to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  motion_kit:
-    path: ../motion_kit   # local path, or use pub.dev when published
+  motion_kit: ^1.0.0
 ```
 
 Then import:
@@ -30,6 +44,8 @@ Then import:
 ```dart
 import 'package:motion_kit/motion_kit.dart';
 ```
+
+---
 
 ## Usage examples
 
@@ -110,6 +126,16 @@ ListView.builder(
 )
 ```
 
+---
+
+## Author
+
+**Salah Saad**
+- GitHub: [@salahsaads](https://github.com/salahsaads/motion_kit)
+- Email: salah.saad.kassab@gmail.com
+
+---
+
 ## License
 
-MIT
+MIT © 2024 Salah Saad
