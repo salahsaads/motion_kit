@@ -1,0 +1,19 @@
+name: motion_kit
+description: A collection of reusable Flutter animation widgets — pendulum, bounce, pulse, rotate, scale, slide, and staggered item animations.
+version: 1.0.0
+homepage: https://github.com/your-org/flutter_animations
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+
+flutter:
