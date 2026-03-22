@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/salahsaads/motion_kit/blob/master/motion_kit_demo.gif" width="360" alt="motion_kit demo"/>
+  <img src="https://raw.githubusercontent.com/salahsaads/motion_kit/master/motion_kit_demo.gif" width="360" alt="motion_kit demo"/>
 </p>
 
 > A collection of reusable Flutter animation wrapper widgets. Drop any of them around an existing widget to instantly add motion.
